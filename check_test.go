@@ -6,7 +6,7 @@ import (
 )
 
 func TestCheck(t *testing.T){
-  destination := "google.com"
+  destination := "synfullsolutions.com"
   expected := fmt.Sprintf("[UP] %v is reachable.\n", destination)
   expected2 := fmt.Sprintf("[DOWN] %v is unreachable.\n", destination)
   //uses an unreachable host
