@@ -5,6 +5,6 @@
   <br>
   step 2: git clone https://github.com/Nisarg2061/Website-Health-Checker.git
   <br>
-  step 3: go run . --domain <domain name>
+  step 3: go run . --domain <domain name\>
   <br>
  
