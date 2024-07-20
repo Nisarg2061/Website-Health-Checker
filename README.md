@@ -1,5 +1,5 @@
 # Website Health Checker
-## A tool developed in go for to check website health.
+### A tool developed in go for to check website health.
 ## Steps to setup locally:
   step 1: Install go
   <br>
