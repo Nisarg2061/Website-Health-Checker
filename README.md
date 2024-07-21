@@ -1,7 +1,7 @@
 # Website Health Checker
 ### A tool developed in go to check website health.
 ## Steps to setup locally:
-  step 1: Install go
+  step 1: Install go - [Guide](https://go.dev/doc/install)
   <br>
   step 2: git clone https://github.com/Nisarg2061/Website-Health-Checker.git
   <br>
