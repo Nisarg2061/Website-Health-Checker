@@ -7,17 +7,17 @@ import (
 	"github.com/urfave/cli/v2"
 )
 
-func main(){
-  app := &cli.App{
+func main() {
+  app := &cli.App {
     Name: "HealthChecker",
     Usage: "Tool to check website status",
-    Flags: []cli.Flag{
-      &cli.StringFlag{
+    Flags: []cli.Flag {
+      &cli.StringFlag {
         Name: "domain",
         Usage: "Domain name to check,",
         Required: true,
       },
-      &cli.StringFlag{
+      &cli.StringFlag {
         Name: "port",
         Aliases: []string{"p"},
         Usage: "Port number to check.",
